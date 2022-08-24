@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0738835f-4c25-437b-a067-e4f032cea5df" name="Default Changelist" comment="10.08.2022">
+    <list default="true" id="0738835f-4c25-437b-a067-e4f032cea5df" name="Default Changelist" comment="14.08.2022">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
@@ -95,7 +95,9 @@
       <workItem from="1659718545464" duration="159000" />
       <workItem from="1660066058075" duration="623000" />
       <workItem from="1660142701459" duration="68000" />
-      <workItem from="1660489100302" duration="21000" />
+      <workItem from="1660489100302" duration="43000" />
+      <workItem from="1660928391074" duration="13000" />
+      <workItem from="1661321997003" duration="106000" />
     </task>
     <task id="LOCAL-00001" summary="date">
       <created>1626265597034</created>
@@ -293,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660142751597</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="14.08.2022">
+      <created>1660489134042</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1660489134042</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,6 +340,7 @@
     <MESSAGE value="15.07.2022" />
     <MESSAGE value="05.08.2022" />
     <MESSAGE value="10.08.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.08.2022" />
+    <MESSAGE value="14.08.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="14.08.2022" />
   </component>
 </project>
